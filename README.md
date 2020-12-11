@@ -1,6 +1,6 @@
 - 🔭 Currently working on a Discord Bot Project
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-z&show_icons=true&theme=midnight-purple)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-z&show_icons=true&theme=radical)
 
 
 
