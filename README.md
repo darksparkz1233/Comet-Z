@@ -1,1 +1,1 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-z&show_icons=true&theme=gruvbox)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-z&show_icons=true&theme=midnight-purple)
