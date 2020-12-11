@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-z&show_icons=true&theme=midnight-purple)
-
-
-
-<!--
-**Comet-Z/Comet-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,4 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=comet-z&show_icons=true&theme=midnight-purple)
+
+
+
